@@ -1,0 +1,14 @@
+Makefile
+filein
+fileout
+newfile
+newfilelim
+pipes.c
+pipes.o
+pipex
+pipex.h
+pipex_main.c
+pipex_main.o
+processes.c
+processes.o
+utils
