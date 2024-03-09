@@ -1,1 +1,0 @@
-# XNDIR@ LUCVAC E, AY TE INCHU KASEM VAX@))))))))))))
